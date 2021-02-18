@@ -223,7 +223,7 @@ button:focus {
 
 .primary-btn:hover {
   background: #27a386;
-  color: #fff;
+  color: #000;
   border: 2px solid transparent;
 }
 
@@ -270,7 +270,7 @@ button:focus {
 .header_area .navbar .nav .nav-item .nav-link {
   font: 500 12px/100px "Roboto", sans-serif;
   text-transform: capitalize;
-  color: #000;
+  color: #b9b33b;
   padding: 0px;
   display: inline-block;
   font-size: 16px;
@@ -282,7 +282,7 @@ button:focus {
 
 .header_area .navbar .nav .nav-item:active .nav-link,
 .header_area .navbar .nav .nav-item.active .nav-link {
-  color: #ffffff;
+  color: #27a386;
 }
 
 .header_area .navbar .nav .nav-item.submenu {
@@ -355,7 +355,7 @@ button:focus {
 
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
   background: #27a386;
-  color: #fff;
+  color: #000;
 }
 
 @media (min-width: 992px) {
@@ -412,7 +412,7 @@ button:focus {
 }
 
 .header_area.white_menu .navbar .nav .nav-item .nav-link {
-  color: #fff;
+  color: #000;
 }
 
 .header_area.white_menu.navbar_fixed .main_menu .navbar .navbar-brand img {
@@ -478,7 +478,7 @@ button:focus {
 @media (max-width: 680px) {
   .banner-content {
     padding: 48px 20px;
-    background: #fff;
+    background: #000;
     margin: 0 15px;
   }
 }
@@ -486,7 +486,7 @@ button:focus {
 .banner-content .primary-btn {
   background: #27a386;
   border: 2px solid transparent;
-  color: #fff;
+  color: #000;
 }
 
 .banner-content .primary-btn:hover {
@@ -541,7 +541,7 @@ button:focus {
 }
 
 .banner_area .banner_inner .banner_content h1 {
-  color: #000;
+  color: #b9b33b;
   font-size: 60px;
   margin-bottom: 20px;
   text-transform: capitalize;
@@ -617,7 +617,7 @@ button:focus {
   height: 100%;
   width: 96%;
   content: "";
-  background: #ffe6db;
+  background: #000000;
   z-index: -1;
 }
 
@@ -625,7 +625,7 @@ button:focus {
   display: inline-block;
   margin-right: 30px;
   font-size: 12px;
-  color: #000;
+  color: #b9b33b;
   text-transform: uppercase;
   cursor: pointer;
 }
@@ -683,7 +683,7 @@ button:focus {
 
 .projects_item .projects_text h4 {
   font-size: 20px;
-  color: #fff;
+  color: #000;
   margin-bottom: 5px;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
@@ -697,7 +697,7 @@ button:focus {
 .projects_item .projects_text p {
   margin-bottom: 0px;
   font-size: 15px;
-  color: #fff;
+  color: #000;
 }
 
 .projects_item:hover:before {
@@ -837,11 +837,11 @@ button:focus {
 .blog_btn:hover {
   background: #27a386;
   border-color: #27a386;
-  color: #fff;
+  color: #000;
 }
 
 .white_bg_btn {
-  background: #fff;
+  background: #000;
   display: inline-block;
   color: #27a386;
   line-height: 40px;
@@ -859,7 +859,7 @@ button:focus {
 
 .white_bg_btn:hover {
   background: #27a386;
-  color: #fff;
+  color: #27a386;
 }
 
 /* Causes Area css
@@ -886,7 +886,7 @@ button:focus {
 }
 
 .causes_item {
-  background: #fff;
+  background: #000;
 }
 
 .causes_item .causes_img {
@@ -917,7 +917,7 @@ button:focus {
   right: -10px;
   bottom: 0px;
   background: #27a386;
-  color: #fff;
+  color: #000;
   padding: 0px 5px;
 }
 
@@ -953,7 +953,7 @@ button:focus {
   float: left;
   line-height: 50px;
   background: #27a386;
-  color: #fff;
+  color: #000;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -961,7 +961,7 @@ button:focus {
 
 .causes_item .causes_bottom a + a {
   border-color: #eeeeee;
-  background: #fff;
+  background: #000;
   font-size: 14px;
   color: #27a386;
 }
@@ -1047,7 +1047,7 @@ button:focus {
   right: 20px;
   bottom: 20px;
   background: rgba(34, 34, 34, 0.8);
-  color: #fff;
+  color: #000;
   transition: all 0.3s linear;
   display: flex;
   align-items: center;
@@ -1059,7 +1059,7 @@ button:focus {
   font-size: 18px;
   line-height: 26px;
   text-transform: uppercase;
-  color: #fff;
+  color: #000;
   position: relative;
 }
 
@@ -1076,7 +1076,7 @@ button:focus {
 
 .categories_post .categories_details .border_line {
   margin: 10px 0px;
-  background: #fff;
+  background: #000;
   width: 100%;
   height: 1px;
 }
@@ -1087,15 +1087,15 @@ button:focus {
 }
 
 .categories_post:hover h5 {
-  color: #fff;
+  color: #000;
 }
 
 .categories_post:hover p {
-  color: #fff;
+  color: #000;
 }
 
 .categories_post:hover .border_line {
-  background: #fff;
+  background: #000;
 }
 
 /*============ blog_left_sidebar css ==============*/
@@ -1160,7 +1160,7 @@ button:focus {
 
 .blog_post .primary_btn:hover {
   background: #27a386;
-  color: #fff;
+  color: #000;
 }
 
 .blog_details {
@@ -1185,7 +1185,7 @@ button:focus {
 
 .blog_right_sidebar {
   border: 1px solid #eeeeee;
-  background: #fafaff;
+  background: #000000;
   padding: 30px;
 }
 
@@ -1194,7 +1194,7 @@ button:focus {
   line-height: 25px;
   background: #27a386;
   text-align: center;
-  color: #fff;
+  color: #000;
   padding: 8px 0px;
   margin-bottom: 30px;
 }
@@ -1214,13 +1214,13 @@ button:focus {
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 12px;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control:-moz-placeholder {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 12px;
 }
@@ -1229,7 +1229,7 @@ button:focus {
   .search_widget
   .input-group
   .form-control::-moz-placeholder {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 12px;
 }
@@ -1238,7 +1238,7 @@ button:focus {
   .search_widget
   .input-group
   .form-control::-webkit-input-placeholder {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 12px;
 }
@@ -1254,7 +1254,7 @@ button:focus {
   border: 0px;
   box-shadow: none;
   font-size: 14px;
-  color: #fff;
+  color: #000;
   font-weight: 600;
   padding: 0px;
   top: 50%;
@@ -1369,7 +1369,7 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .input-group-text {
-  background: #fff;
+  background: #000;
   border-radius: 0px;
   vertical-align: top;
   font-size: 12px;
@@ -1413,7 +1413,7 @@ button:focus {
 
 .blog_right_sidebar .newsletter_widget .bbtns {
   background: #27a386;
-  color: #fff;
+  color: #000;
   font-size: 12px;
   line-height: 38px;
   display: inline-block;
@@ -1433,7 +1433,7 @@ button:focus {
 .blog_right_sidebar .tag_cloud_widget ul li a {
   display: inline-block;
   border: 1px solid #eee;
-  background: #fff;
+  background: #000;
   padding: 0px 13px;
   margin-bottom: 8px;
   transition: all 0.3s ease 0s;
@@ -1443,7 +1443,7 @@ button:focus {
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
   background: #27a386;
-  color: #fff;
+  color: #000;
 }
 
 .blog_right_sidebar .br {
@@ -1474,7 +1474,7 @@ button:focus {
 .blog-pagination .page-item.active .page-link {
   background: #27a386;
   border-color: transparent;
-  color: #fff;
+  color: #000;
 }
 
 .blog-pagination .page-link {
@@ -1497,7 +1497,7 @@ button:focus {
 }
 
 .blog-pagination .page-link:hover {
-  color: #fff;
+  color: #000;
   text-decoration: none;
   background: #27a386;
   border-color: #eee;
@@ -1722,7 +1722,7 @@ button:focus {
 }
 
 .comments-area .btn-reply {
-  background-color: #fff;
+  background-color: #000;
   color: #27a386;
   border: 1px solid #eee;
   padding: 2px 18px;
@@ -1738,7 +1738,7 @@ button:focus {
 .comments-area .btn-reply:hover {
   border: transparent;
   background: #27a386;
-  color: #fff;
+  color: #000;
 }
 
 .comment-form {
@@ -1781,7 +1781,7 @@ button:focus {
 
 .comment-form .form-control {
   padding: 8px 20px;
-  background: #fff;
+  background: #000;
   border: none;
   border-radius: 0px;
   width: 100%;
@@ -1912,7 +1912,7 @@ button:focus {
 
 .contact_form .primary-btn {
   background: #27a386;
-  color: #fff;
+  color: #000;
   margin-top: 20px;
   border: 2px solid #27a386;
 }
@@ -1948,7 +1948,7 @@ button:focus {
   right: -15px;
   top: -15px;
   padding: 0px;
-  color: #fff;
+  color: #000;
   opacity: 1;
   cursor: pointer;
 }
@@ -2052,7 +2052,7 @@ button:focus {
 }
 
 .button-group-area .link:hover {
-  color: #fff;
+  color: #000;
 }
 
 .button-group-area .disable {
@@ -2082,7 +2082,7 @@ button:focus {
 }
 
 .info {
-  color: #ffffff;
+  color: #000000;
 }
 
 .info:before {
@@ -2136,7 +2136,7 @@ button:focus {
 }
 
 .warning-border {
-  background: #fff;
+  background: #000;
   border: 1px solid #f4e700;
   color: #f4e700;
 }
@@ -2254,7 +2254,7 @@ button:focus {
 }
 
 .about-generic-area {
-  background: #fff;
+  background: #000;
 }
 
 .about-generic-area p {
@@ -2262,7 +2262,7 @@ button:focus {
 }
 
 .white-bg {
-  background: #fff;
+  background: #000;
 }
 
 .section-top-border {
@@ -2433,12 +2433,12 @@ h6 {
 
 .genric-btn.default:hover {
   border: 1px solid #f9f9ff;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.default-border {
   border: 1px solid #f9f9ff;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.default-border:hover {
@@ -2448,7 +2448,7 @@ h6 {
 }
 
 .genric-btn.primary {
-  color: #fff;
+  color: #000;
   background: #f8b600;
   border: 1px solid transparent;
 }
@@ -2456,23 +2456,23 @@ h6 {
 .genric-btn.primary:hover {
   color: #f8b600;
   border: 1px solid #f8b600;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.primary-border {
   color: #f8b600;
   border: 1px solid #f8b600;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.primary-border:hover {
-  color: #fff;
+  color: #000;
   background: #f8b600;
   border: 1px solid transparent;
 }
 
 .genric-btn.success {
-  color: #fff;
+  color: #000;
   background: #4cd3e3;
   border: 1px solid transparent;
 }
@@ -2480,23 +2480,23 @@ h6 {
 .genric-btn.success:hover {
   color: #4cd3e3;
   border: 1px solid #4cd3e3;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.success-border {
   color: #4cd3e3;
   border: 1px solid #4cd3e3;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.success-border:hover {
-  color: #fff;
+  color: #000;
   background: #4cd3e3;
   border: 1px solid transparent;
 }
 
 .genric-btn.info {
-  color: #fff;
+  color: #000;
   background: #38a4ff;
   border: 1px solid transparent;
 }
@@ -2504,23 +2504,23 @@ h6 {
 .genric-btn.info:hover {
   color: #38a4ff;
   border: 1px solid #38a4ff;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.info-border {
   color: #38a4ff;
   border: 1px solid #38a4ff;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.info-border:hover {
-  color: #fff;
+  color: #000;
   background: #38a4ff;
   border: 1px solid transparent;
 }
 
 .genric-btn.warning {
-  color: #fff;
+  color: #000;
   background: #f4e700;
   border: 1px solid transparent;
 }
@@ -2528,23 +2528,23 @@ h6 {
 .genric-btn.warning:hover {
   color: #f4e700;
   border: 1px solid #f4e700;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.warning-border {
   color: #f4e700;
   border: 1px solid #f4e700;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.warning-border:hover {
-  color: #fff;
+  color: #000;
   background: #f4e700;
   border: 1px solid transparent;
 }
 
 .genric-btn.danger {
-  color: #fff;
+  color: #000;
   background: #f44a40;
   border: 1px solid transparent;
 }
@@ -2552,17 +2552,17 @@ h6 {
 .genric-btn.danger:hover {
   color: #f44a40;
   border: 1px solid #f44a40;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.danger-border {
   color: #f44a40;
   border: 1px solid #f44a40;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.danger-border:hover {
-  color: #fff;
+  color: #000;
   background: #f44a40;
   border: 1px solid transparent;
 }
@@ -2577,13 +2577,13 @@ h6 {
 .genric-btn.link:hover {
   color: #27a386;
   border: 1px solid #f9f9ff;
-  background: #fff;
+  background: #000;
 }
 
 .genric-btn.link-border {
   color: #27a386;
   border: 1px solid #f9f9ff;
-  background: #fff;
+  background: #000;
   text-decoration: underline;
 }
 
@@ -2602,7 +2602,7 @@ h6 {
 
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
-  background: #fff;
+  background: #000;
   border-left: 2px solid #f8b600;
 }
 
@@ -2613,7 +2613,7 @@ h6 {
 }
 
 .progress-table {
-  background: #fff;
+  background: #000;
   padding: 15px 0px 30px 0px;
   min-width: 800px;
 }
@@ -2744,7 +2744,7 @@ h6 {
   width: 14px;
   height: 14px;
   border: 3px solid #f8b600;
-  background: #fff;
+  background: #000;
   top: 4px;
   left: 0;
   border-radius: 50%;
@@ -2891,7 +2891,7 @@ h6 {
   width: 35px;
   height: 17px;
   border-radius: 8.5px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -2936,7 +2936,7 @@ h6 {
   width: 35px;
   height: 17px;
   border-radius: 8.5px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -2988,7 +2988,7 @@ h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #fff;
+  background: #000;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -3009,7 +3009,7 @@ h6 {
   width: 35px;
   height: 17px;
   border-radius: 8.5px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3061,7 +3061,7 @@ h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #fff;
+  background: #000;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -3082,7 +3082,7 @@ h6 {
   width: 16px;
   height: 16px;
   border-radius: 3px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3125,7 +3125,7 @@ h6 {
   width: 16px;
   height: 16px;
   border-radius: 3px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3164,7 +3164,7 @@ h6 {
   width: 16px;
   height: 16px;
   border-radius: 3px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3208,7 +3208,7 @@ h6 {
   width: 16px;
   height: 16px;
   border-radius: 8px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3247,7 +3247,7 @@ h6 {
   width: 16px;
   height: 16px;
   border-radius: 8px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3286,7 +3286,7 @@ h6 {
   width: 16px;
   height: 16px;
   border-radius: 8px;
-  background: #fff;
+  background: #000;
   position: relative;
   cursor: pointer;
 }
@@ -3345,7 +3345,7 @@ h6 {
   border: none;
   border-radius: 0px;
   height: 40px;
-  background: #fff;
+  background: #000;
   padding-left: 20px;
   padding-right: 40px;
 }
@@ -3529,7 +3529,7 @@ h6 {
 }
 
 .testimonial_area .testimonial_logos {
-  background: #fff;
+  background: #000;
   padding: 80px 50px;
   box-shadow: 0px 20px 50px rgba(153, 153, 153, 0.2);
 }
@@ -3589,7 +3589,7 @@ h6 {
 }
 
 .testimonial_area .active_testimonial .owl-dots .owl-dot.active {
-  background: #ffffff;
+  background: #000000;
 }
 
 @media (max-width: 991px) {
@@ -3658,24 +3658,24 @@ h6 {
 }
 
 .newsletter-area .main-title h1 {
-  color: #fff;
+  color: #000;
 }
 
 .newsletter-area .main-title h1:before {
-  background: #fff;
+  background: #000;
 }
 
 .newsletter-area .main-title h1:after {
-  background: #fff;
+  background: #000;
 }
 
 .newsletter-area .main-title p {
-  color: #fff;
+  color: #000;
 }
 
 .newsletter_form .navbar-form {
   width: 100%;
-  background: #fff;
+  background: #000;
   border-radius: 50px;
 }
 
@@ -3736,7 +3736,7 @@ h6 {
 
 .newsletter_form .navbar-form .genric-btn:hover {
   background-color: #27a386;
-  color: #ffffff;
+  color: #000000;
 }
 
 /* End Newsletter Area css
@@ -3783,7 +3783,7 @@ h6 {
     display: block;
     width: 25px;
     height: 3px;
-    background: #fff;
+    background: #000;
     margin: auto;
     margin-bottom: 4px;
     transition: all 400ms linear;
